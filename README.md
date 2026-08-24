@@ -247,7 +247,7 @@ Well-designed dashboards communicate insights more effectively than raw reports 
 
 ## 📷 Dashboard Preview
 
-![Blinkit Dashboard](images/blinkit-dashboard.png)
+![Blinkit Dashboard](https://github.com/N-09-palaria/Blinkit-Dashboard-/blob/1a113ab4c086f3b535b974db4f4fd8d186781061/final%20dahsbord.PNG)
 
 ---
 
